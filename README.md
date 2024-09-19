@@ -64,8 +64,8 @@ Stewart Platform (Hexapod): ALL legs Zero except (5,6 at 4mm+):
         P4	            THEO/<-82.5,-112.5,181.195>,<0,-1,0.0000002>	            ACTL/<-92.131,-97.306,182.212>,<-0.0311391,-0.999146,0.0271602>
 
 
-# CODE
-Inverse Kinematics of the Stewart Platform (Hexapod)
+
+# Inverse Kinematics of the Stewart Platform (Hexapod)
 
 Input:
 
@@ -76,7 +76,7 @@ output:
 
         6 Leg lengths  in mm (leg_lengths) 1x6 Matrix
 
-                
+# CODE                
                 % Define the desired position and orientation of the moving platform
                 % %calibreation 1 (All legs Zero)
                 % desired_position = [.9133; .3355; 179.8]; % Desired position [x, y, z]
