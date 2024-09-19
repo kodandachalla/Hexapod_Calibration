@@ -1,5 +1,5 @@
 # Hexapod Calibration data using Co-ordinate measuring machine (CMM):
-
+# NOTE: Calibration leg points are different from assembled leg points
 Calibrated Hexapod: 
 
         Fixed Platform
