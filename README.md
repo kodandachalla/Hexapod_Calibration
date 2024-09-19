@@ -1,13 +1,18 @@
-# Hexapod Calibration data using Co-ordinate measuring machine (CMM):
-# NOTE: Calibration leg points are different from assembled leg points
+# Please read the pdf before going ahead
+
+# CMM Coding.zip
+CMM Coding.zip file has a coding of Coordinate measuring machine and calibration data
+
+# Data: 
+
+NOTE: Calibration points are different from assembled points (Pdf)
+
 Calibrated Hexapod: 
 
         Fixed Platform
         Moving Platform
         Assembled all legs Zero
         Assembled  change 5 6 legs +4 mm
-
-# Data: 
 
 Fixed Platform:
 
@@ -76,7 +81,8 @@ output:
 
         6 Leg lengths  in mm (leg_lengths) 1x6 Matrix
 
-# CODE                
+CODE   
+
                 % Define the desired position and orientation of the moving platform
                 % %calibreation 1 (All legs Zero)
                 % desired_position = [.9133; .3355; 179.8]; % Desired position [x, y, z]
