@@ -1,1 +1,7 @@
-# Hexapod-Calibration-data
+# Hexapod Calibration data
+
+Calibrated Hexapod:
+        Fixed Platform
+        Moving Platform
+
+    
