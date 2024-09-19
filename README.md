@@ -1,4 +1,4 @@
-# Hexapod Calibration data
+# Hexapod Calibration data using Co-ordinate measuring machine (CMM):
 
 Calibrated Hexapod: 
 
